@@ -1,1 +1,1 @@
-# Indian-Museum-Ticket-Booking-System
+# Indian-Museums-Ticket-Booking-System
