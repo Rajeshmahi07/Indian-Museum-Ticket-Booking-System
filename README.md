@@ -22,7 +22,7 @@ An online ticket booking system for Indian museums that allows visitors to check
 
 > *(Add screenshots of your app here. Example below)*
 
-![Home Page](screenshots/home.png)
+![Home Page](.png)
 ![Booking Page](screenshots/booking.png)
 
 ## ⚙️ How to Run the Project Locally
