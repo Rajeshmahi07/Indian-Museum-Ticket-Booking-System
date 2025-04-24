@@ -18,12 +18,6 @@ An online ticket booking system for Indian museums that allows visitors to check
 - **Database:** MySQL / SQLite / MongoDB
 - **Other Tools:** Bootstrap, EmailJS, QR code generator *(if any)*
 
-## 📸 Screenshots
-
-> *(Add screenshots of your app here. Example below)*
-
-![Home Page](ScreenShort/Booking page.png)
-![Booking Page](screenshots/booking.png)
 
 ## ⚙️ How to Run the Project Locally
 
