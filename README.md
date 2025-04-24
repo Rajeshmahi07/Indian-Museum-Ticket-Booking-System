@@ -29,4 +29,5 @@ An online ticket booking system for Indian museums that allows visitors to check
 
 1. Clone the repository:
    ```bash
-   
+   git clone https://github.com/yourusername/indian-museum-ticket-booking.git
+   cd indian-museum-ticket-booking
